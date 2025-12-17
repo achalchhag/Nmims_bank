@@ -61,7 +61,7 @@ The project follows a clear **MVC pattern**:
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Kiran-Shetty-afk/NmimsBank.git
+   https://github.com/achalchhag/Nmims_bank.git
 2. Open the project in IntelliJ IDEA.
 3.Configure JavaFX libraries under
 File → Project Structure → Libraries.
